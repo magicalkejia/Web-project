@@ -50,7 +50,7 @@
   "main": "babel.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/magicalkejia/Web-project"
+    "url": "https://github.com/magicalkejia/Web-project.git"
   
   },
   "author": "Magical_kejia",
